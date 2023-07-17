@@ -19,4 +19,4 @@ function search(num, target) {
   return mid;
 }
 
-console.log(search([10, 20, 30, 40, 50], 40));
+console.log(search([10, 20, 30, 40, 50], 0));
